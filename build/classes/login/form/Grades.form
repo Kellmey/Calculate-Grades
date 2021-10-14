@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jRadioButton1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Grades"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="cc" red="cc" type="rgb"/>
+    </Property>
+    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="0" green="0" red="cc" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="modulecodeA" max="32767" attributes="0"/>
+                  <Component id="modulecodeB" max="32767" attributes="0"/>
+                  <Component id="modulecodeC" pref="61" max="32767" attributes="0"/>
+                  <Component id="modulecodeD" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="814" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jLabel6" min="-2" pref="55" max="-2" attributes="0"/>
+                  <Component id="SA2_1" alignment="1" pref="61" max="32767" attributes="0"/>
+                  <Component id="SA2_2" alignment="1" max="32767" attributes="0"/>
+                  <Component id="SA2_3" alignment="0" max="32767" attributes="0"/>
+                  <Component id="SA2_4" alignment="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jlabel1" min="-2" pref="500" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="98" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel1" min="-2" pref="99" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace min="-2" pref="205" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jLabel3" alignment="0" pref="42" max="32767" attributes="0"/>
+                                          <Component id="FA1_1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="FA1_2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="FA1_3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="FA1_4" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="104" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jLabel4" alignment="0" pref="43" max="32767" attributes="0"/>
+                                          <Component id="FA2_1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="FA2_2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="FA2_3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="FA2_4" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="82" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jLabel5" pref="48" max="32767" attributes="0"/>
+                                          <Component id="SA1_1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="SA1_2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="SA1_3" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="SA1_4" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="89" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                                  <Component id="modulenameD" max="32767" attributes="0"/>
+                                                  <Component id="modulenameC" max="32767" attributes="0"/>
+                                                  <Component id="jLabel2" min="-2" pref="96" max="-2" attributes="0"/>
+                                                  <Component id="modulenameA" pref="230" max="32767" attributes="0"/>
+                                                  <Component id="modulenameB" alignment="0" max="32767" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace max="32767" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="Modules" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="32767" attributes="0"/>
+                                              <Component id="GradesPerModule" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="117" max="-2" attributes="0"/>
+                                              <Component id="FinalGrade" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="113" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Back" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <Component id="View" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jlabel1" min="-2" pref="33" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="jLabel2" alignment="3" pref="26" max="32767" attributes="0"/>
+                      <Component id="jLabel1" alignment="3" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel6" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jLabel5" alignment="1" max="32767" attributes="0"/>
+                  <Component id="jLabel3" alignment="1" max="32767" attributes="0"/>
+                  <Component id="jLabel4" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="SA2_1" pref="30" max="32767" attributes="0"/>
+                  <Component id="SA1_1" max="32767" attributes="0"/>
+                  <Component id="FA2_1" max="32767" attributes="0"/>
+                  <Component id="modulenameA" max="32767" attributes="0"/>
+                  <Component id="modulecodeA" max="32767" attributes="0"/>
+                  <Component id="FA1_1" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="SA2_2" pref="31" max="32767" attributes="0"/>
+                  <Component id="SA1_2" max="32767" attributes="0"/>
+                  <Component id="FA2_2" max="32767" attributes="0"/>
+                  <Component id="modulenameB" max="32767" attributes="0"/>
+                  <Component id="modulecodeB" max="32767" attributes="0"/>
+                  <Component id="FA1_2" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="SA2_3" pref="32" max="32767" attributes="0"/>
+                  <Component id="SA1_3" max="32767" attributes="0"/>
+                  <Component id="FA2_3" max="32767" attributes="0"/>
+                  <Component id="FA1_3" max="32767" attributes="0"/>
+                  <Component id="modulenameC" max="32767" attributes="0"/>
+                  <Component id="modulecodeC" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="FA2_4" pref="30" max="32767" attributes="0"/>
+                  <Component id="modulecodeD" max="32767" attributes="0"/>
+                  <Component id="modulenameD" max="32767" attributes="0"/>
+                  <Component id="FA1_4" max="32767" attributes="0"/>
+                  <Component id="SA1_4" max="32767" attributes="0"/>
+                  <Component id="SA2_4" alignment="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Back" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Modules" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="GradesPerModule" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="FinalGrade" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="View" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="21" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jlabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="     Calculate Grades"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Module code"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Module name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="FA1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="FA2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="SA1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="SA2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="GradesPerModule">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Grades Per Module"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="GradesPerModuleActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Modules">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Modules"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ModulesActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="FinalGrade">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Final Grade"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FinalGradeActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Back">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BackActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="View">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="View"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ViewActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulecodeA">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HTSS1171"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulecodeB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HBFB1161"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulecodeC">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HBCM1161"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulecodeD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HPRX1161"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulenameA">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Technical Systems and Support 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulenameB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Basic Finance and Budgeting 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulenameC">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Business Communications 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="modulenameD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Praxis 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA1_1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA1_2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA1_3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA1_4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA2_1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA2_2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA2_3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="FA2_4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA1_1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA1_2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA1_3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA1_4">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA2_1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA2_2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA2_3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="SA2_4">
+    </Component>
+  </SubComponents>
+</Form>
